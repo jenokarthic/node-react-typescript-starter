@@ -11,3 +11,4 @@ Node + Reactjs starter kit in Typescript.
 - [ ] Setup React SPA and components
 - [ ] Add base theme to React App
 - [ ] Setup Authentication both in Node & React
+- [ ] Setup secured API path in Express and secure page in React
